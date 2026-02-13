@@ -1,0 +1,10 @@
+{
+  "address": "0x187a05fb9e4234Dd310ae74215743560D1BAA6Ac",
+  "code_len_bytes": 6098,
+  "keccak256": "0xaed581af9c5e8dbd3707696d118ac36d8323ecd8c98eaefab5722aaf7920d9b6",
+  "sha256": "619ce257491fc7ff82c139280d67517dc7968acd767c0f226f806eaaeb7c1069",
+  "labels": [
+    "20260117-v3-stable-surge-pool-factory-v3:StableSurgePoolFactory"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

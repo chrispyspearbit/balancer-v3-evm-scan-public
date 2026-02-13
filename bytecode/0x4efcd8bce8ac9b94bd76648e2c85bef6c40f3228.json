@@ -1,0 +1,10 @@
+{
+  "address": "0x4eFcd8bcE8AC9b94bd76648e2c85bEf6c40F3228",
+  "code_len_bytes": 6023,
+  "keccak256": "0xa197f6eb5364d7200f5a02733db8152025b4626ba07a6533d985497d097f6502",
+  "sha256": "b9ebc186ff9c1640be6d7a2405afd11da20c274e9cdce266574f910ad25bbf64",
+  "labels": [
+    "20260116-v3-stable-pool-v3:StablePoolFactory"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

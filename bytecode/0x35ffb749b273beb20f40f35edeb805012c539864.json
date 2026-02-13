@@ -1,0 +1,10 @@
+{
+  "address": "0x35fFB749B273bEb20F40f35EdeB805012C539864",
+  "code_len_bytes": 15130,
+  "keccak256": "0x24ce88b086630a9fdaf9e6356a5a826cfe5a9a748b21f9da28a2860c038f8d88",
+  "sha256": "ae8099be6ede39ad01246d0b3162753463581122f138b1bee209378dcc1dad8c",
+  "labels": [
+    "20241204-v3-vault:VaultAdmin"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

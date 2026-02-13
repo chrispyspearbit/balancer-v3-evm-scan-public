@@ -1,0 +1,19 @@
+{
+  "address": "0xb21A277466e7dB6934556a1Ce12eb3F032815c8A",
+  "ok": true,
+  "labels": [
+    "20250123-v3-composite-liquidity-router-v2:CompositeLiquidityRouter"
+  ],
+  "etherscan_v2": {
+    "ContractName": "CompositeLiquidityRouter",
+    "CompilerVersion": "v0.8.27+commit.40a35a09",
+    "OptimizationUsed": "1",
+    "Runs": "9999",
+    "EVMVersion": "cancun",
+    "LicenseType": "",
+    "Proxy": "1",
+    "Implementation": "0xb21a277466e7db6934556a1ce12eb3f032815c8a",
+    "SwarmSource": ""
+  },
+  "source_kind": "standard-json"
+}

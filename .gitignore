@@ -1,0 +1,10 @@
+# Local build artifacts
+__pycache__/
+*.pyc
+
+# Keep repo size manageable
+# build-info files are huge and redundant with Etherscan verified sources + upstream repo
+/deployments/**/build-info/
+
+# optional: raw etherscan responses can be large; keep the parsed dump instead
+/etherscan_verified/**/etherscan_v2_raw.json

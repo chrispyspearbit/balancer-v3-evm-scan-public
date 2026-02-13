@@ -1,0 +1,32 @@
+{
+  "pool": "0x1ea5870f7c037930ce1d5d8d9317c670e89e13e3",
+  "block_tag": "0x17510f1",
+  "tvl_usd": 7215958.512952205,
+  "breakdown": [
+    {
+      "token": "0x0bfc9d54fc184518a81162f8fb99c2eaca081202",
+      "symbol": "waEthWETH",
+      "name": "Wrapped Aave Ethereum WETH",
+      "decimals": 18,
+      "balance_raw": "1640713097323117009291",
+      "balance": 1640.713097323117,
+      "price_usd": 2177.8753587611,
+      "price_source": "balancer_api",
+      "value_usd": 3573268.6254566186
+    },
+    {
+      "token": "0xae78736cd615f374d3085123a210448e74fc6393",
+      "symbol": "rETH",
+      "name": "Rocket Pool ETH",
+      "decimals": 18,
+      "balance_raw": "1532415637395128479742",
+      "balance": 1532.4156373951284,
+      "price_usd": 2377.09,
+      "price_source": "balancer_api",
+      "value_usd": 3642689.887495586
+    }
+  ],
+  "pricing_fallback": {
+    "source": "api-v3.balancer.fi tokenGetCurrentPrices"
+  }
+}

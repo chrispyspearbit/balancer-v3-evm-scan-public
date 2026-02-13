@@ -1,0 +1,19 @@
+{
+  "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3",
+  "ok": true,
+  "labels": [
+    "00000000-permit2:Permit2"
+  ],
+  "etherscan_v2": {
+    "ContractName": "Permit2",
+    "CompilerVersion": "v0.8.17+commit.8df45f5f",
+    "OptimizationUsed": "1",
+    "Runs": "1000000",
+    "EVMVersion": "Default",
+    "LicenseType": "",
+    "Proxy": "0",
+    "Implementation": "",
+    "SwarmSource": ""
+  },
+  "source_kind": "standard-json"
+}

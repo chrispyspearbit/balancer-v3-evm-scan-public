@@ -1,0 +1,19 @@
+{
+  "address": "0x4eFcd8bcE8AC9b94bd76648e2c85bEf6c40F3228",
+  "ok": true,
+  "labels": [
+    "20260116-v3-stable-pool-v3:StablePoolFactory"
+  ],
+  "etherscan_v2": {
+    "ContractName": "StablePoolFactory",
+    "CompilerVersion": "v0.8.27+commit.40a35a09",
+    "OptimizationUsed": "1",
+    "Runs": "9999",
+    "EVMVersion": "cancun",
+    "LicenseType": "",
+    "Proxy": "0",
+    "Implementation": "",
+    "SwarmSource": ""
+  },
+  "source_kind": "standard-json"
+}

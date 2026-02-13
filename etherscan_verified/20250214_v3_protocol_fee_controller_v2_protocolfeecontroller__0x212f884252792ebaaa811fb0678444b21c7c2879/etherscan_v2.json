@@ -1,0 +1,19 @@
+{
+  "address": "0x212F884252792ebaaA811FB0678444b21c7C2879",
+  "ok": true,
+  "labels": [
+    "20250214-v3-protocol-fee-controller-v2:ProtocolFeeController"
+  ],
+  "etherscan_v2": {
+    "ContractName": "ProtocolFeeController",
+    "CompilerVersion": "v0.8.27+commit.40a35a09",
+    "OptimizationUsed": "1",
+    "Runs": "9999",
+    "EVMVersion": "cancun",
+    "LicenseType": "",
+    "Proxy": "0",
+    "Implementation": "",
+    "SwarmSource": ""
+  },
+  "source_kind": "standard-json"
+}

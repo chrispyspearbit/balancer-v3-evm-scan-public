@@ -1,0 +1,10 @@
+{
+  "address": "0x332694Ef46D880DF6Ea9593e04CB8ABEE5F81D99",
+  "code_len_bytes": 6627,
+  "keccak256": "0x8e8e8bd93eb17cf7af7c7c2bc37f29dc212c6c9b46dc50c4e6b8ad40969d5015",
+  "sha256": "849861fb328ab4ff7a4635ba1cf5c35233e95d73d5b43193fc5ff325ad334de5",
+  "labels": [
+    "20260115-v3-weighted-pool-v2:WeightedPoolFactory"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

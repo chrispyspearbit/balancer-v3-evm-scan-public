@@ -1,0 +1,67 @@
+{
+  "id": "0x85b2b559bc2d21104c4defdd6efca8a20343361d",
+  "address": "0x85b2b559bc2d21104c4defdd6efca8a20343361d",
+  "chain": "MAINNET",
+  "protocolVersion": 3,
+  "type": "STABLE",
+  "version": 1,
+  "name": "Balancer Aave GHO/USDT/USDC",
+  "symbol": "Aave GHO/USDT/USDC",
+  "factory": "0xb9d01ca61b9c181da1051bfdd28e1097e920ab14",
+  "poolCreator": "0x0000000000000000000000000000000000000000",
+  "pauseManager": "0x0000000000000000000000000000000000000000",
+  "swapFeeManager": "0x0000000000000000000000000000000000000000",
+  "hook": null,
+  "dynamicData": {
+    "totalLiquidity": "29337037.36",
+    "totalShares": "28255314.956655188518290886",
+    "swapFee": "0.000006",
+    "volume24h": "82849585.14",
+    "fees24h": "497.10",
+    "apr": {
+      "swapApr": "0",
+      "hasRewardApr": false,
+      "nativeRewardApr": {
+        "total": "0"
+      },
+      "thirdPartyApr": {
+        "total": "0"
+      }
+    }
+  },
+  "poolTokens": [
+    {
+      "address": "0x7bc3485026ac48b6cf9baf0a377477fff5703af8",
+      "symbol": "waEthUSDT",
+      "decimals": 6,
+      "balance": "17177871.722747",
+      "balanceUSD": "19832433.81830619",
+      "priceRate": "1.155230768364431673",
+      "weight": null,
+      "isErc4626": true,
+      "hasNestedPool": false
+    },
+    {
+      "address": "0xc71ea051a5f82c67adcf634c36ffe6334793d24c",
+      "symbol": "Aave Prime GHO",
+      "decimals": 18,
+      "balance": "3678793.8166521173",
+      "balanceUSD": "3795459.357871045",
+      "priceRate": "1.031713258623345492",
+      "weight": null,
+      "isErc4626": true,
+      "hasNestedPool": false
+    },
+    {
+      "address": "0xd4fa2d31b7968e448877f69a96de69f5de8cd23e",
+      "symbol": "waEthUSDC",
+      "decimals": 6,
+      "balance": "4912211.386117",
+      "balanceUSD": "5709144.185534061",
+      "priceRate": "1.162328460454701895",
+      "weight": null,
+      "isErc4626": true,
+      "hasNestedPool": false
+    }
+  ]
+}

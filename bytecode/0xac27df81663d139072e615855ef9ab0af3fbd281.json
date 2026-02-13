@@ -1,0 +1,10 @@
+{
+  "address": "0xAc27df81663d139072E615855eF9aB0Af3FBD281",
+  "code_len_bytes": 14268,
+  "keccak256": "0x312797cae4d953cbdb350221fd9e70497cf89b50afe7e209fb2d51d992556696",
+  "sha256": "f31a66e658cb08fb4b8f05e3c55b54c0277e38168f18b15fa00539ed002f1b08",
+  "labels": [
+    "20241204-v3-vault:VaultFactory"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

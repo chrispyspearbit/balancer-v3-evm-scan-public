@@ -1,0 +1,19 @@
+{
+  "address": "0x136f1EFcC3f8f88516B9E94110D56FDBfB1778d1",
+  "ok": true,
+  "labels": [
+    "20241205-v3-batch-router:BatchRouter"
+  ],
+  "etherscan_v2": {
+    "ContractName": "BatchRouter",
+    "CompilerVersion": "v0.8.26+commit.8a97fa7a",
+    "OptimizationUsed": "1",
+    "Runs": "9999",
+    "EVMVersion": "cancun",
+    "LicenseType": "",
+    "Proxy": "1",
+    "Implementation": "0x136f1efcc3f8f88516b9e94110d56fdbfb1778d1",
+    "SwarmSource": ""
+  },
+  "source_kind": "standard-json"
+}

@@ -1,0 +1,10 @@
+{
+  "address": "0xb21A277466e7dB6934556a1Ce12eb3F032815c8A",
+  "code_len_bytes": 14632,
+  "keccak256": "0x86f81c9134d0a6c8e690480ae1e27e8439f157a56e805a640ae703aafd738fc2",
+  "sha256": "7a2aa394d8bc5e9d9bf785eb838db17e39dbd876fb9a704fe782c925a7e1acbe",
+  "labels": [
+    "20250123-v3-composite-liquidity-router-v2:CompositeLiquidityRouter"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "0xae255db04ba78519f33871c557d8fd6bafdb83bd",
+  "address": "0xae255db04ba78519f33871c557d8fd6bafdb83bd",
+  "chain": "MAINNET",
+  "protocolVersion": 3,
+  "type": "STABLE",
+  "version": 2,
+  "name": "Stream Surge xUSD-vgUSDC",
+  "symbol": "xUSD-vgUSDC",
+  "factory": "0x355bd33f0033066bb3de396a6d069be57353ad95",
+  "poolCreator": "0x0000000000000000000000000000000000000000",
+  "pauseManager": "0x0000000000000000000000000000000000000000",
+  "swapFeeManager": "0x0000000000000000000000000000000000000000",
+  "hook": {
+    "address": "0xbdbadc891bb95dee80ebc491699228ef0f7d6ff1",
+    "name": ""
+  },
+  "dynamicData": {
+    "totalLiquidity": "8085725.06",
+    "totalShares": "1617081.092326840972386873",
+    "swapFee": "0.0001",
+    "volume24h": "0.00",
+    "fees24h": "0.00",
+    "apr": {
+      "swapApr": "0",
+      "hasRewardApr": false,
+      "nativeRewardApr": {
+        "total": "0"
+      },
+      "thirdPartyApr": {
+        "total": "0"
+      }
+    }
+  },
+  "poolTokens": [
+    {
+      "address": "0x8399c8fc273bd165c346af74a02e65f10e4fd78f",
+      "symbol": "vgUSDC",
+      "decimals": 6,
+      "balance": "476637669264.064",
+      "balanceUSD": "8084489.827222422",
+      "priceRate": "0.000005746970833076",
+      "weight": null,
+      "isErc4626": true,
+      "hasNestedPool": false
+    },
+    {
+      "address": "0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94",
+      "symbol": "xUSD",
+      "decimals": 6,
+      "balance": "850387.669476",
+      "balanceUSD": "1234.907461982963",
+      "priceRate": "1.2657911774382",
+      "weight": null,
+      "isErc4626": false,
+      "hasNestedPool": false
+    }
+  ]
+}

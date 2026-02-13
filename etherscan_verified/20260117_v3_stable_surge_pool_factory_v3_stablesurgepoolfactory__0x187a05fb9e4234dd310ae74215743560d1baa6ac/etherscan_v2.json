@@ -1,0 +1,19 @@
+{
+  "address": "0x187a05fb9e4234Dd310ae74215743560D1BAA6Ac",
+  "ok": true,
+  "labels": [
+    "20260117-v3-stable-surge-pool-factory-v3:StableSurgePoolFactory"
+  ],
+  "etherscan_v2": {
+    "ContractName": "StableSurgePoolFactory",
+    "CompilerVersion": "v0.8.27+commit.40a35a09",
+    "OptimizationUsed": "1",
+    "Runs": "9999",
+    "EVMVersion": "cancun",
+    "LicenseType": "",
+    "Proxy": "0",
+    "Implementation": "",
+    "SwarmSource": ""
+  },
+  "source_kind": "standard-json"
+}

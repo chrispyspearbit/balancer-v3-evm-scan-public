@@ -1,0 +1,4 @@
+Repo: https://github.com/balancer/balancer-v3-monorepo
+Commit: b9541d53f95b1634ea30479ac89905a6a8dd1d7b
+Cloned: 2026-02-13
+Note: This repository contains a curated subset of the upstream monorepo, copied for local scanning.

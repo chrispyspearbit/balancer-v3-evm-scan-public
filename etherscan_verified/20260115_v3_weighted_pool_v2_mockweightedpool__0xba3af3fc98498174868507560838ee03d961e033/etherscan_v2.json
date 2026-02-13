@@ -1,0 +1,19 @@
+{
+  "address": "0xBa3Af3FC98498174868507560838EE03d961e033",
+  "ok": true,
+  "labels": [
+    "20260115-v3-weighted-pool-v2:MockWeightedPool"
+  ],
+  "etherscan_v2": {
+    "ContractName": "WeightedPool",
+    "CompilerVersion": "v0.8.27+commit.40a35a09",
+    "OptimizationUsed": "1",
+    "Runs": "9999",
+    "EVMVersion": "cancun",
+    "LicenseType": "",
+    "Proxy": "0",
+    "Implementation": "",
+    "SwarmSource": ""
+  },
+  "source_kind": "standard-json"
+}

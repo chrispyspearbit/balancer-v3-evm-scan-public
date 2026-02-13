@@ -1,0 +1,19 @@
+{
+  "address": "0x1ea5870f7c037930ce1d5d8d9317c670e89e13e3",
+  "ok": true,
+  "labels": [
+    "top3_pool#3"
+  ],
+  "etherscan_v2": {
+    "ContractName": "StablePool",
+    "CompilerVersion": "v0.8.27+commit.40a35a09",
+    "OptimizationUsed": "1",
+    "Runs": "9999",
+    "EVMVersion": "cancun",
+    "LicenseType": "",
+    "Proxy": "0",
+    "Implementation": "",
+    "SwarmSource": ""
+  },
+  "source_kind": "standard-json"
+}

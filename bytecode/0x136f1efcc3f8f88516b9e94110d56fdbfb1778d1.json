@@ -1,0 +1,10 @@
+{
+  "address": "0x136f1EFcC3f8f88516B9E94110D56FDBfB1778d1",
+  "code_len_bytes": 17569,
+  "keccak256": "0x7c02cbc40baaab59716fc517cbc2a08d287b2d19a1d1b07b8c879e490134b2be",
+  "sha256": "434b15a8a6c2287138ab6f30a6e1cef74c4ead1004ea1a7cc2b60461c0940a95",
+  "labels": [
+    "20241205-v3-batch-router:BatchRouter"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

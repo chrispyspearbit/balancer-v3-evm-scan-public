@@ -1,0 +1,10 @@
+{
+  "address": "0x5D06d6E11AE3790CE1c7C3054C3F7eB0789859bc",
+  "code_len_bytes": 15415,
+  "keccak256": "0x5e62b25889188530450a2c5916b3a47c8dfbca5d7ce7d401e732c6dd0d0ba98c",
+  "sha256": "f3641af6f36f5ddc4648f38af1a7999c30f39cce2efeee3788bca151463f9508",
+  "labels": [
+    "20260117-v3-stable-surge-pool-factory-v3:MockStablePool"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "0x1ea5870f7c037930ce1d5d8d9317c670e89e13e3",
+  "address": "0x1ea5870f7c037930ce1d5d8d9317c670e89e13e3",
+  "chain": "MAINNET",
+  "protocolVersion": 3,
+  "type": "STABLE",
+  "version": 2,
+  "name": "Balancer rETH - Aave WETH",
+  "symbol": "rETH-waEthWETH",
+  "factory": "0xe42c2e153bb0a8899b59c73f5ff941f9742f1197",
+  "poolCreator": "0x0000000000000000000000000000000000000000",
+  "pauseManager": "0x0000000000000000000000000000000000000000",
+  "swapFeeManager": "0x0000000000000000000000000000000000000000",
+  "hook": null,
+  "dynamicData": {
+    "totalLiquidity": "7241992.51",
+    "totalShares": "3492.696920575765869997",
+    "swapFee": "0.0004",
+    "volume24h": "813187.71",
+    "fees24h": "325.28",
+    "apr": {
+      "swapApr": "0",
+      "hasRewardApr": false,
+      "nativeRewardApr": {
+        "total": "0"
+      },
+      "thirdPartyApr": {
+        "total": "0"
+      }
+    }
+  },
+  "poolTokens": [
+    {
+      "address": "0x0bfc9d54fc184518a81162f8fb99c2eaca081202",
+      "symbol": "waEthWETH",
+      "decimals": 18,
+      "balance": "1640.713097323117",
+      "balanceUSD": "3585832.689305531",
+      "priceRate": "1.059360164379155469",
+      "weight": null,
+      "isErc4626": true,
+      "hasNestedPool": false
+    },
+    {
+      "address": "0xae78736cd615f374d3085123a210448e74fc6393",
+      "symbol": "rETH",
+      "decimals": 18,
+      "balance": "1532.4156373951284",
+      "balanceUSD": "3656159.820948289",
+      "priceRate": "1.157418005567955092",
+      "weight": null,
+      "isErc4626": false,
+      "hasNestedPool": false
+    }
+  ]
+}

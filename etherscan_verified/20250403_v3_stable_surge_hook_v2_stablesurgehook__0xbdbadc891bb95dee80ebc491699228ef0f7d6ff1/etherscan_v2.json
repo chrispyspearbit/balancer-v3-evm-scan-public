@@ -1,0 +1,20 @@
+{
+  "address": "0xBDbADc891BB95DEE80eBC491699228EF0f7D6fF1",
+  "ok": true,
+  "labels": [
+    "20250403-v3-stable-surge-hook-v2:StableSurgeHook",
+    "top3_pool#2_hook"
+  ],
+  "etherscan_v2": {
+    "ContractName": "StableSurgeHook",
+    "CompilerVersion": "v0.8.27+commit.40a35a09",
+    "OptimizationUsed": "1",
+    "Runs": "9999",
+    "EVMVersion": "cancun",
+    "LicenseType": "",
+    "Proxy": "0",
+    "Implementation": "",
+    "SwarmSource": ""
+  },
+  "source_kind": "standard-json"
+}

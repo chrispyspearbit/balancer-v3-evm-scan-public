@@ -1,0 +1,19 @@
+{
+  "address": "0x0E8B07657D719B86e06bF0806D6729e3D528C9A9",
+  "ok": true,
+  "labels": [
+    "20241204-v3-vault:VaultExtension"
+  ],
+  "etherscan_v2": {
+    "ContractName": "VaultExtension",
+    "CompilerVersion": "v0.8.26+commit.8a97fa7a",
+    "OptimizationUsed": "1",
+    "Runs": "500",
+    "EVMVersion": "cancun",
+    "LicenseType": "",
+    "Proxy": "1",
+    "Implementation": "0x35ffb749b273beb20f40f35edeb805012c539864",
+    "SwarmSource": ""
+  },
+  "source_kind": "standard-json"
+}

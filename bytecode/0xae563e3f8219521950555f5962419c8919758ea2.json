@@ -1,0 +1,10 @@
+{
+  "address": "0xAE563E3f8219521950555F5962419C8919758Ea2",
+  "code_len_bytes": 22402,
+  "keccak256": "0x76d58a2f13ee78e52e3f414f0181bc77ff0fcc65ae35b0d215a26b6fd2980a18",
+  "sha256": "46b88f97f8319055cdf71bb494f899dacb1dfabf8c82eb3de110c60cde47678a",
+  "labels": [
+    "20250307-v3-router-v2:Router"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

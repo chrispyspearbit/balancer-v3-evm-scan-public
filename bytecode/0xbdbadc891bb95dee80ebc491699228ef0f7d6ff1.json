@@ -1,0 +1,11 @@
+{
+  "address": "0xBDbADc891BB95DEE80eBC491699228EF0f7D6fF1",
+  "code_len_bytes": 7768,
+  "keccak256": "0x4e4b918b1e49098d4bd62c32b3064316aaee0e7eaf2c866c9e82778d88d9ffd8",
+  "sha256": "966921ae616c2c9393383cdd88595de0cbfa52dcd015823dae9848966099b06f",
+  "labels": [
+    "20250403-v3-stable-surge-hook-v2:StableSurgeHook",
+    "top3_pool#2_hook"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

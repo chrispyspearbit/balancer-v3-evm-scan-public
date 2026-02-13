@@ -1,0 +1,43 @@
+{
+  "pool": "0x85b2b559bc2d21104c4defdd6efca8a20343361d",
+  "block_tag": "0x17510f1",
+  "tvl_usd": 29337039.876393653,
+  "breakdown": [
+    {
+      "token": "0x7bc3485026ac48b6cf9baf0a377477fff5703af8",
+      "symbol": "waEthUSDT",
+      "name": "Wrapped Aave Ethereum USDT",
+      "decimals": 6,
+      "balance_raw": "17228365347051",
+      "balance": 17228365.347051,
+      "price_usd": 1.1545338176,
+      "price_source": "balancer_api",
+      "value_usd": 19890730.415138338
+    },
+    {
+      "token": "0xc71ea051a5f82c67adcf634c36ffe6334793d24c",
+      "symbol": "waEthLidoGHO",
+      "name": "Wrapped Aave Ethereum Lido GHO",
+      "decimals": 18,
+      "balance_raw": "3678793803149651005433705",
+      "balance": 3678793.803149651,
+      "price_usd": 1.0317129872,
+      "price_source": "balancer_api",
+      "value_usd": 3795459.343940375
+    },
+    {
+      "token": "0xd4fa2d31b7968e448877f69a96de69f5de8cd23e",
+      "symbol": "waEthUSDC",
+      "name": "Wrapped Aave Ethereum USDC",
+      "decimals": 6,
+      "balance_raw": "4862054519108",
+      "balance": 4862054.519108,
+      "price_usd": 1.1622350377,
+      "price_source": "balancer_api",
+      "value_usd": 5650850.117314941
+    }
+  ],
+  "pricing_fallback": {
+    "source": "api-v3.balancer.fi tokenGetCurrentPrices"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "address": "0xFc2986feAB34713E659da84F3B1FA32c1da95832",
+  "code_len_bytes": 13791,
+  "keccak256": "0x2a9fd9180d14f4bde50f9edef599568ca6383500a2d4a5ada93aba60f008a956",
+  "sha256": "17311e5bca5e75325dd32c351bb3ba9ff0bed840ff05869e5c35283f39f91f9a",
+  "labels": [
+    "20250407-v3-vault-explorer-v2:VaultExplorer"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

@@ -1,0 +1,10 @@
+{
+  "address": "0x212F884252792ebaaA811FB0678444b21c7C2879",
+  "code_len_bytes": 11611,
+  "keccak256": "0x61ec2421f4b3012f67733ede2783ffb18020801b9db697ffe3fa44181aa07277",
+  "sha256": "11e797f8923a2abc3d2a253ce3907de2e3842afa5a0949afbe6ebf06b4b5f838",
+  "labels": [
+    "20250214-v3-protocol-fee-controller-v2:ProtocolFeeController"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

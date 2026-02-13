@@ -1,0 +1,10 @@
+{
+  "address": "0x1ea5870f7c037930ce1d5d8d9317c670e89e13e3",
+  "code_len_bytes": 14995,
+  "keccak256": "0xd294b9869e95d1b5ec4daed06fcfb2e0dd0874bcae69e81d8b50ba835699b679",
+  "sha256": "39e002457f6d5ebf5a296397f9ae333825ee1d93e82ec516b26551f9aaabcad9",
+  "labels": [
+    "top3_pool#3"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

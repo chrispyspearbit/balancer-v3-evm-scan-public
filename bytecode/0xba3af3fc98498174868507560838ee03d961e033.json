@@ -1,0 +1,10 @@
+{
+  "address": "0xBa3Af3FC98498174868507560838EE03d961e033",
+  "code_len_bytes": 16995,
+  "keccak256": "0x151794883b7fa487fd1598a3e1752165c94a07fa1dd01fbf33fc3d5355060c63",
+  "sha256": "983833c24559968b0ee95e08d9cc4832a97449329eba4646631c411d02f08362",
+  "labels": [
+    "20260115-v3-weighted-pool-v2:MockWeightedPool"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

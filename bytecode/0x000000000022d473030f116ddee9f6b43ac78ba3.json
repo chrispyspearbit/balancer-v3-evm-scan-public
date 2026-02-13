@@ -1,0 +1,10 @@
+{
+  "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3",
+  "code_len_bytes": 9152,
+  "keccak256": "0xc67d1657868aa5146eaf24fb879fb1fdec3d2d493b3683a61c9c2f4fb2851131",
+  "sha256": "62f01f46295c143ebea4d1cf12be2085d8b93d53f86d95afba4f016ee2d694ba",
+  "labels": [
+    "00000000-permit2:Permit2"
+  ],
+  "rpc": "https://ethereum.publicnode.com"
+}

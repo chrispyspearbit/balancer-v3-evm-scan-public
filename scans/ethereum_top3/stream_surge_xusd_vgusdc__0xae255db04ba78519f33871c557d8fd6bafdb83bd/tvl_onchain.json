@@ -1,0 +1,32 @@
+{
+  "pool": "0xae255db04ba78519f33871c557d8fd6bafdb83bd",
+  "block_tag": "0x17510f1",
+  "tvl_usd": 8092112.002599858,
+  "breakdown": [
+    {
+      "token": "0x8399c8fc273bd165c346af74a02e65f10e4fd78f",
+      "symbol": "vgUSDC",
+      "name": "Varlamore USDC Growth",
+      "decimals": 6,
+      "balance_raw": "476637669264064038",
+      "balance": 476637669264.064,
+      "price_usd": 1.69749e-05,
+      "price_source": "balancer_api",
+      "value_usd": 8090876.77199056
+    },
+    {
+      "token": "0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94",
+      "symbol": "xUSD",
+      "name": "Staked Stream USD",
+      "decimals": 6,
+      "balance_raw": "850387669476",
+      "balance": 850387.669476,
+      "price_usd": 0.00145255,
+      "price_source": "balancer_api",
+      "value_usd": 1235.2306092973638
+    }
+  ],
+  "pricing_fallback": {
+    "source": "api-v3.balancer.fi tokenGetCurrentPrices"
+  }
+}

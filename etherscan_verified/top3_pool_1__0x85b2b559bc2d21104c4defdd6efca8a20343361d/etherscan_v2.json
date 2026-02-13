@@ -1,0 +1,12 @@
+{
+  "address": "0x85b2b559bc2d21104c4defdd6efca8a20343361d",
+  "ok": false,
+  "response": {
+    "status": "0",
+    "message": "NOTOK",
+    "result": "Max calls per sec rate limit reached (3/sec)"
+  },
+  "labels": [
+    "top3_pool#1"
+  ]
+}

@@ -2,6 +2,16 @@
 
 This repo is a public scan pack for Balancer v3 contracts: upstream source entrypoint + deployed-address dossiers + Etherscan-verified source + ABIs + runtime bytecode dumps.
 
+## Important: Deployed vs Upstream
+
+- If you want to scan what is **actually deployed on Ethereum mainnet**, use:
+  - `etherscan_verified/` (Etherscan API v2 verified source + ABI per deployed address)
+  - `bytecode/` (runtime bytecode hex + hashes fetched from an Ethereum RPC)
+  - `deployments/balancer-deployments/` (official deployment outputs + artifacts)
+
+- `upstream/balancer-v3-monorepo/` is an **upstream source snapshot** (open-source entrypoint) and can differ from
+  the specific code currently deployed at any given address.
+
 Included:
 - Curated upstream source snapshot from `balancer/balancer-v3-monorepo` under `upstream/` (see `UPSTREAM_COMMIT.txt`).
 - Official deployment outputs/artifacts (subset) under `deployments/balancer-deployments/`.
@@ -42,4 +52,3 @@ Pool math risks:
 
 Rate providers / ERC4626 / wrappers:
 - Any token with a rate provider or ERC4626 wrapping: stale rates, rounding, and “useUnderlying vs useWrapped” toggles.
-
